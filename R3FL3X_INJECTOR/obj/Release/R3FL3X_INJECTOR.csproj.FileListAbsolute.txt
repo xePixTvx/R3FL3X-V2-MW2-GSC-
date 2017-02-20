@@ -1,0 +1,11 @@
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\R3FL3X_INJECTOR.exe.config
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\R3FL3X_INJECTOR.exe
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\R3FL3X_INJECTOR.pdb
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\Hura Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\Login Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Release\xVisual Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Release\R3FL3X_INJECTOR.Form1.resources
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Release\R3FL3X_INJECTOR.Properties.Resources.resources
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Release\R3FL3X_INJECTOR.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Release\R3FL3X_INJECTOR.exe
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Release\R3FL3X_INJECTOR.pdb

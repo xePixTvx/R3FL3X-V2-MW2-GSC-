@@ -1,0 +1,12 @@
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\R3FL3X_INJECTOR.exe.config
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\R3FL3X_INJECTOR.exe
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\R3FL3X_INJECTOR.pdb
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\Hura Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\Login Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\bin\Debug\xVisual Theme.dll
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.Form1.resources
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.Properties.Resources.resources
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.exe
+C:\Users\Mario\Desktop\R3FL3X_INJECTOR\R3FL3X_INJECTOR\obj\Debug\R3FL3X_INJECTOR.pdb
